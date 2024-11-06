@@ -1,4 +1,4 @@
-# LITA-FINAL-PROJECT
+# LITA-FINAL-PROJECT-SALESPERFORMANCE
 ---
 ## Project Title: Sales Performance Analysis for a Retail Store
 ---
@@ -184,12 +184,20 @@ Pivot Table
 
 Filtered Chart for 2023
 ---
-![rev by reg 2023](https://github.com/user-attachments/assets/f6946b6d-d69e-4405-bdec-a7da6b44afe7)
+![Rev by reg bar chart 2023](https://github.com/user-attachments/assets/6811f86f-a595-49d5-992c-397ccb90b684)
+
+![rev by r andp2023](https://github.com/user-attachments/assets/e8b189ed-2421-4245-b6ff-dd1ff1c60d67)
+
+Filtered Chart for 2024 Revenue by Region 
+---
+![rev by reg 2024](https://github.com/user-attachments/assets/b8dca8e8-c808-451a-854e-3730c536187a)
+
+![rev by r and p 2024](https://github.com/user-attachments/assets/6a7ee423-e29c-46cc-b892-0c664f04c6e6)
 
 Insights
 ---
 A. Key Observations:
-- From the data , the southern region generated the highest revenue accounting for 43.5% in 2023, followed by the Eastern region with a score of 35.64%, then the Northern Region accounting for 13.02% outperforming the western region  which is the lowest total revenue generating area with a percentage score of 7.84%. However the west and north regions performed well in 2024 while the eastern region showed a significant decline in its revenue generating capacity in 2024.
+- From the data , the southern region generated the highest sum of revenue for the year 2023 also showing that the product that were mostly sold at that region were socks, shoes and gloves, the Eastern region is the second highest generator of revenue for the the year 2023 and the products the generated revenue were the shirt, jacket, and hat. The Northern Region came third with product like hat, jacket, and shirt mainly sold outperforming the western region  which is the lowest total revenue generating area with gloves, shoes and socks as product sold. However the west and north regions performed well in 2024 while the eastern region showed a significant decline in its revenue generating capacity in 2024. The data also showed that not all the product categories are sold in a region, different regions have different products that are sold and this in turns aid revenue generation.
 
 B. Interpretation and Implications:
 - The decline in revenue generation by the Eastern region indicates a need for strategic analysis of business policies. The need to probe the cause of decline which may be due to factors like economic downturns, increased market competition like new market entrants, and ineffective marketing and branding efforts.
@@ -263,11 +271,15 @@ Bar chart visual
 ---
 ![sales for current year](https://github.com/user-attachments/assets/a1983fbf-6162-44e4-a332-886025b28028)
 
+Table for Sales in Last Quarter
+---
+![products with no sale in last quarter](https://github.com/user-attachments/assets/d656cb0c-819c-467c-a1a8-52f15f417577)
+
 Insights
 ---
 A. Key observations
-- From the data, the months that have the highest sales value in 2024 are February with a value of 298,800; followed by January , June , August . months like March, April, May  and July being the lowest. The increase in sales does not show a consistent pattern of increase or decrease’ 
-- There are 0 sales recorded for each product category in the last quarter.This can be due to lack of data as the monthly sales for the current year is from January to August.
+- From the data, the months that have the highest sales value in 2024 are February with a value of 298,800; followed by January , June , August . months like March, April, May  and July being the lowest. The performance in sales does not show a consistent pattern of increase or decrease. 
+- There are 0 sales recorded for each product category in the last quarter for current year 2024. This can be due to lack of data as the monthly sales for the current year is from January to August.
 
 B. Implications:
 - The inability to generate high sales within these months may indicate inconsistency in the way business procedures are carried out. This  may also indicate unfavorable market conditions like economic downturns like high inflation leading to difficulty in the purchasing power of consumers.
@@ -276,6 +288,40 @@ B. Implications:
 C. Conclusion:
 - The data revealed inconsistency in the total sales value generated across the month.
 - There is need for careful analysis and implementation of strategies that will boost and maintain sales performance subsequently.
+
+## 6. Percentage of Total Sales Per Region
+---
+Pivot Table
+---
+![% of t sale by reg](https://github.com/user-attachments/assets/f23f5988-ec92-4567-8d9b-bb473fb73e8a)
+
+Filtered Chart for 2023
+---
+![% of ts by R 2013](https://github.com/user-attachments/assets/46d72899-b8a3-4c98-8512-68d298465f8c)
+
+Filtered Chart for 2024
+---
+![% 0F TS BY REG 2024](https://github.com/user-attachments/assets/644b5b91-94aa-4020-8131-c63d7ed63fc7)
+
+Insights
+---
+
+A. Key Observation:
+- Insights revealed that the South accounted for (43.5%) of the total sales percentage in 2023 and (44.89%) in 2024 making it the region with the largest sales transactions for both years. The East region came second with a percentage value of (35.64%) in 2023 but then experienced a drastic  decline in 2024 with a percentage value if (9.24%) , the North came third in total sales percentage with a value of  (13.02%) in 2023, however but it gained massive increased in total sales value accounting for (24.42%) in 2024. The lowest sales percentage was contributed by the West region(7.84%) in 2023 and also gained a significant increase in 2024 with a value of (21.4%) in 2024.
+
+B. Interpretation and Implications:
+- The underperformance of the East Region in 2024 may indicate unfavorable market factors which can be change in consumer behavior and preferences, economic climate such as high inflation rate, product competitors like new market entrants. 
+- Strategies like effective marketing and branding efforts should be engaged to counter competitor effect,  and increase product quality to foster customer loyalty.
+
+C. Conclusion:
+- The decline in total sales performance in the East region indicates a need for critical analysis of the business procedures in that region. Implementation of the strategies suggested can help improve subsequent performance and therefore boost sales in that region.  
+
+
+
+
+
+
+   
 
 
 
